@@ -1,0 +1,33 @@
+.aihra{
+    width: 100%;
+    padding: 5rem;
+}
+.heading-secondary{
+    font-size: 3rem;
+    font-weight: 700;
+    text-align: center;
+    color: #33A3CE;
+    padding: 1rem;
+    text-transform: uppercase;
+    /* border-bottom: 1px solid #000; */
+    margin-bottom: 3rem;
+}
+
+
+.paragraph{
+    font-size: 1.6rem;
+}
+.paragraph:not(:last-child){
+    margin-bottom: 1rem;
+}
+.read-more{
+    font-size: 1.6rem;
+    border-bottom: 1px solid #33A3CE;
+    color: #33A3CE;
+    text-decoration: none;
+    padding-bottom: 5px;
+}
+.read-more:hover{
+    background-color: #33A3CE;
+    color: #fff;
+}

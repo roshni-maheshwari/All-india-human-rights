@@ -1,0 +1,41 @@
+.section-read-more{
+    width: 100%;
+    padding: 5rem;
+}
+.heading-secondary{
+    font-size: 3rem;
+    font-weight: 700;
+    text-align: center;
+    color: #33A3CE;
+    padding: 1rem;
+    text-transform: uppercase;
+    /* border-bottom: 1px solid #000; */
+    margin-bottom: 3rem;
+}
+.read-more-list{
+    width: 70%;
+    margin: 0 auto;
+}
+.read-more-item{
+    font-size: 1.6rem;
+    margin-bottom: 10px;
+
+}
+.heading-tertiary{
+    font-size: 2rem;
+    font-weight: 700;
+    padding: 1rem;
+    text-align: center;
+    /* padding-left: 160px; */
+    /* border-bottom: 1px solid #000; */
+    margin-bottom: 1rem;
+}
+.heading-tertiary:hover{
+    font-weight: 900;
+}
+.paragraph{
+    font-size: 1.6rem;
+    width: 70%;
+    margin: 0 auto;
+}
+
